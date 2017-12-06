@@ -45,7 +45,7 @@ Author: jThemes Studio
 /* 1. GLOBAL STYLES */
 
 body {
-	background: #0033ff;
+	background: #fffff;
 	font-family: 'Lato', sans-serif;
 	overflow-x: hidden;
 	color: #777;
@@ -175,12 +175,12 @@ input:focus, button:focus, .slick-slide {
 
 .btn.btn-default {
 	color: #000;
-	background-color: #0033ff;
+	background-color: #fffff;
 	border: 1px solid #e6e6e6;
 }
 
 .btn.btn-default.btn-border {
-	border-color: #0033ff;
+	border-color: #fffff;
 	color: #fff;
 }
 
@@ -687,7 +687,7 @@ input:focus, button:focus, .slick-slide {
 /* 3.6. Intro / 6 */
 
 .intro-style6 {
-	background: #222 url(../images/bg/15.jpg) no-repeat top center;
+	background: #222 url(../images/bg/18.jpg) no-repeat top center;
 	background-size: cover;
 	padding: 280px 0 210px;
 }
