@@ -1,5 +1,5 @@
 /*------------------------------------------------------------------
-Theme Name: Helium - Responsive Bootstrap Landing Page
+Theme Name: PODDER CONSULTANCY - Responsive Bootstrap Landing Page
 Version:	2.0
 Author: jThemes Studio
 -------------------------------------------------------------------*/
@@ -45,7 +45,7 @@ Author: jThemes Studio
 /* 1. GLOBAL STYLES */
 
 body {
-	background: #fffff;
+	background: #0033ff;
 	font-family: 'Lato', sans-serif;
 	overflow-x: hidden;
 	color: #777;
@@ -175,12 +175,12 @@ input:focus, button:focus, .slick-slide {
 
 .btn.btn-default {
 	color: #000;
-	background-color: #ffffff;
+	background-color: #0033ff;
 	border: 1px solid #e6e6e6;
 }
 
 .btn.btn-default.btn-border {
-	border-color: #ffffff;
+	border-color: #0033ff;
 	color: #fff;
 }
 
@@ -2065,7 +2065,7 @@ footer .social-icons .fa {
 }
 
 .dual-img {
-	background: #111 url(../images/7.jpg) no-repeat right bottom;
+	background: #111 url(../images/9.jpg) no-repeat right bottom;
 	background-size: cover;
 	position: absolute;
 	top: 0;
@@ -2968,7 +2968,7 @@ blockquote {
 }
 
 .parallax-content {
-	background: url(../images/bg/6.jpg) no-repeat center fixed;
+	background: url(../images/bg/7.jpg) no-repeat center fixed;
 	background-size: cover;
 	padding: 200px 0;
 }
